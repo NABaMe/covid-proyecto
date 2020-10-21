@@ -1,0 +1,116 @@
+C:\Users\bMn\source\repos\covid\covid\obj\Debug\covid.csprojAssemblyReference.cache
+C:\Users\bMn\source\repos\covid\covid\obj\Debug\covid.Properties.Resources.resources
+C:\Users\bMn\source\repos\covid\covid\obj\Debug\covid.csproj.GenerateResource.cache
+C:\Users\bMn\source\repos\covid\covid\obj\Debug\covid.csproj.CoreCompileInputs.cache
+C:\Users\bMn\source\repos\covid\covid\bin\Debug\covid.exe.config
+C:\Users\bMn\source\repos\covid\covid\bin\Debug\covid.exe
+C:\Users\bMn\source\repos\covid\covid\bin\Debug\covid.pdb
+C:\Users\bMn\source\repos\covid\covid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bMn\source\repos\covid\covid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bMn\source\repos\covid\covid\obj\Debug\covid.csproj.CopyComplete
+C:\Users\bMn\source\repos\covid\covid\obj\Debug\covid.exe
+C:\Users\bMn\source\repos\covid\covid\obj\Debug\covid.pdb
+C:\Users\bMn\source\repos\covid\covid\obj\Debug\covid.Covid.resources
+C:\Users\bMn\source\repos\covid\covid\obj\Debug\covid.Resource1.resources
+C:\Users\Eder\source\repos\covid\covid\bin\Debug\covid.exe.config
+C:\Users\Eder\source\repos\covid\covid\bin\Debug\covid.exe
+C:\Users\Eder\source\repos\covid\covid\bin\Debug\covid.pdb
+C:\Users\Eder\source\repos\covid\covid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eder\source\repos\covid\covid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Eder\source\repos\covid\covid\obj\Debug\covid.csprojAssemblyReference.cache
+C:\Users\Eder\source\repos\covid\covid\obj\Debug\covid.Covid.resources
+C:\Users\Eder\source\repos\covid\covid\obj\Debug\covid.Properties.Resources.resources
+C:\Users\Eder\source\repos\covid\covid\obj\Debug\covid.Resource1.resources
+C:\Users\Eder\source\repos\covid\covid\obj\Debug\covid.csproj.GenerateResource.cache
+C:\Users\Eder\source\repos\covid\covid\obj\Debug\covid.csproj.CoreCompileInputs.cache
+C:\Users\Eder\source\repos\covid\covid\obj\Debug\covid.csproj.CopyComplete
+C:\Users\Eder\source\repos\covid\covid\obj\Debug\covid.exe
+C:\Users\Eder\source\repos\covid\covid\obj\Debug\covid.pdb
+C:\Users\FedericoJ\Desktop\covid\covid\bin\Debug\covid.exe.config
+C:\Users\FedericoJ\Desktop\covid\covid\bin\Debug\covid.exe
+C:\Users\FedericoJ\Desktop\covid\covid\bin\Debug\covid.pdb
+C:\Users\FedericoJ\Desktop\covid\covid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\FedericoJ\Desktop\covid\covid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\FedericoJ\Desktop\covid\covid\obj\Debug\covid.csprojAssemblyReference.cache
+C:\Users\FedericoJ\Desktop\covid\covid\obj\Debug\covid.Covid.resources
+C:\Users\FedericoJ\Desktop\covid\covid\obj\Debug\covid.Properties.Resources.resources
+C:\Users\FedericoJ\Desktop\covid\covid\obj\Debug\covid.Resource1.resources
+C:\Users\FedericoJ\Desktop\covid\covid\obj\Debug\covid.csproj.GenerateResource.cache
+C:\Users\FedericoJ\Desktop\covid\covid\obj\Debug\covid.csproj.CoreCompileInputs.cache
+C:\Users\FedericoJ\Desktop\covid\covid\obj\Debug\covid.csproj.CopyComplete
+C:\Users\FedericoJ\Desktop\covid\covid\obj\Debug\covid.exe
+C:\Users\FedericoJ\Desktop\covid\covid\obj\Debug\covid.pdb
+C:\Users\FedericoJ\Desktop\covid\covid\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Eder\Desktop\covid\covid\bin\Debug\covid.exe.config
+C:\Users\Eder\Desktop\covid\covid\bin\Debug\covid.exe
+C:\Users\Eder\Desktop\covid\covid\bin\Debug\covid.pdb
+C:\Users\Eder\Desktop\covid\covid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eder\Desktop\covid\covid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Eder\Desktop\covid\covid\obj\Debug\covid.csprojAssemblyReference.cache
+C:\Users\Eder\Desktop\covid\covid\obj\Debug\covid.Covid.resources
+C:\Users\Eder\Desktop\covid\covid\obj\Debug\covid.Properties.Resources.resources
+C:\Users\Eder\Desktop\covid\covid\obj\Debug\covid.Resource1.resources
+C:\Users\Eder\Desktop\covid\covid\obj\Debug\covid.csproj.GenerateResource.cache
+C:\Users\Eder\Desktop\covid\covid\obj\Debug\covid.csproj.CoreCompileInputs.cache
+C:\Users\Eder\Desktop\covid\covid\obj\Debug\covid.csproj.CopyComplete
+C:\Users\Eder\Desktop\covid\covid\obj\Debug\covid.exe
+C:\Users\Eder\Desktop\covid\covid\obj\Debug\covid.pdb
+C:\Users\Eder\Desktop\tarea\covid\covid\obj\Debug\covid.csprojAssemblyReference.cache
+C:\Users\Eder\Desktop\tarea\covid\covid\obj\Debug\covid.Covid.resources
+C:\Users\Eder\Desktop\tarea\covid\covid\obj\Debug\covid.Form1.resources
+C:\Users\Eder\Desktop\tarea\covid\covid\obj\Debug\covid.Properties.Resources.resources
+C:\Users\Eder\Desktop\tarea\covid\covid\obj\Debug\covid.Resource1.resources
+C:\Users\Eder\Desktop\tarea\covid\covid\obj\Debug\covid.csproj.GenerateResource.cache
+C:\Users\Eder\Desktop\tarea\covid\covid\obj\Debug\covid.csproj.CoreCompileInputs.cache
+C:\Users\Eder\Desktop\tarea\covid\covid\obj\Debug\covid.exe
+C:\Users\Eder\Desktop\tarea\covid\covid\obj\Debug\covid.pdb
+C:\Users\Eder\Desktop\tarea\covid\covid\bin\Debug\covid.exe.config
+C:\Users\Eder\Desktop\tarea\covid\covid\bin\Debug\covid.exe
+C:\Users\Eder\Desktop\tarea\covid\covid\bin\Debug\covid.pdb
+C:\Users\Eder\Desktop\tarea\covid\covid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eder\Desktop\tarea\covid\covid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Eder\Desktop\tarea\covid\covid\obj\Debug\covid.csproj.CopyComplete
+C:\Users\Eder\Desktop\tarea\covid\covid\bin\Debug\onnxruntime.dll
+C:\Users\Eder\Desktop\tarea\covid\covid\bin\Debug\Microsoft.ML.OnnxRuntime.dll
+C:\Users\Eder\Desktop\tarea\covid\covid\bin\Debug\System.Buffers.dll
+C:\Users\Eder\Desktop\tarea\covid\covid\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eder\Desktop\tarea\covid\covid\bin\Debug\System.Drawing.Common.dll
+C:\Users\Eder\Desktop\tarea\covid\covid\bin\Debug\System.Memory.dll
+C:\Users\Eder\Desktop\tarea\covid\covid\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Eder\Desktop\tarea\covid\covid\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Eder\Desktop\tarea\covid\covid\bin\Debug\Microsoft.ML.OnnxRuntime.pdb
+C:\Users\Eder\Desktop\tarea\covid\covid\bin\Debug\System.Buffers.xml
+C:\Users\Eder\Desktop\tarea\covid\covid\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Eder\Desktop\tarea\covid\covid\bin\Debug\System.Memory.xml
+C:\Users\Eder\Desktop\tarea\covid\covid\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Eder\Desktop\tarea\covid\covid\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Eder\Desktop\covid proyecto\covid\bin\Debug\Covid.exe.config
+C:\Users\Eder\Desktop\covid proyecto\covid\bin\Debug\Covid.exe
+C:\Users\Eder\Desktop\covid proyecto\covid\bin\Debug\Covid.pdb
+C:\Users\Eder\Desktop\covid proyecto\covid\bin\Debug\Microsoft.ML.OnnxRuntime.dll
+C:\Users\Eder\Desktop\covid proyecto\covid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eder\Desktop\covid proyecto\covid\bin\Debug\System.Buffers.dll
+C:\Users\Eder\Desktop\covid proyecto\covid\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eder\Desktop\covid proyecto\covid\bin\Debug\System.Drawing.Common.dll
+C:\Users\Eder\Desktop\covid proyecto\covid\bin\Debug\System.Memory.dll
+C:\Users\Eder\Desktop\covid proyecto\covid\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Eder\Desktop\covid proyecto\covid\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Eder\Desktop\covid proyecto\covid\bin\Debug\Microsoft.ML.OnnxRuntime.pdb
+C:\Users\Eder\Desktop\covid proyecto\covid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Eder\Desktop\covid proyecto\covid\bin\Debug\System.Buffers.xml
+C:\Users\Eder\Desktop\covid proyecto\covid\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Eder\Desktop\covid proyecto\covid\bin\Debug\System.Memory.xml
+C:\Users\Eder\Desktop\covid proyecto\covid\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Eder\Desktop\covid proyecto\covid\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Eder\Desktop\covid proyecto\covid\obj\Debug\covid.csprojAssemblyReference.cache
+C:\Users\Eder\Desktop\covid proyecto\covid\obj\Debug\covid.Covid.resources
+C:\Users\Eder\Desktop\covid proyecto\covid\obj\Debug\covid.Form1.resources
+C:\Users\Eder\Desktop\covid proyecto\covid\obj\Debug\covid.Properties.Resources.resources
+C:\Users\Eder\Desktop\covid proyecto\covid\obj\Debug\covid.Resource1.resources
+C:\Users\Eder\Desktop\covid proyecto\covid\obj\Debug\covid.csproj.GenerateResource.cache
+C:\Users\Eder\Desktop\covid proyecto\covid\obj\Debug\covid.csproj.CoreCompileInputs.cache
+C:\Users\Eder\Desktop\covid proyecto\covid\obj\Debug\covid.csproj.CopyComplete
+C:\Users\Eder\Desktop\covid proyecto\covid\obj\Debug\Covid.exe
+C:\Users\Eder\Desktop\covid proyecto\covid\obj\Debug\Covid.pdb
+C:\Users\Eder\Desktop\covid proyecto\covid\bin\Debug\onnxruntime.dll
+C:\Users\Eder\Desktop\covid proyecto\covid\obj\Debug\covid.DateTimePicker.resources

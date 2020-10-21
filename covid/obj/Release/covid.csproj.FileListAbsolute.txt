@@ -1,0 +1,7 @@
+C:\Users\Eder\Desktop\covid proyecto\covid\obj\Release\covid.csprojAssemblyReference.cache
+C:\Users\Eder\Desktop\covid proyecto\covid\obj\Release\covid.Covid.resources
+C:\Users\Eder\Desktop\covid proyecto\covid\obj\Release\covid.Form1.resources
+C:\Users\Eder\Desktop\covid proyecto\covid\obj\Release\covid.Properties.Resources.resources
+C:\Users\Eder\Desktop\covid proyecto\covid\obj\Release\covid.Resource1.resources
+C:\Users\Eder\Desktop\covid proyecto\covid\obj\Release\covid.csproj.GenerateResource.cache
+C:\Users\Eder\Desktop\covid proyecto\covid\obj\Release\covid.csproj.CoreCompileInputs.cache
