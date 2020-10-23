@@ -114,3 +114,33 @@ C:\Users\Eder\Desktop\covid proyecto\covid\obj\Debug\Covid.exe
 C:\Users\Eder\Desktop\covid proyecto\covid\obj\Debug\Covid.pdb
 C:\Users\Eder\Desktop\covid proyecto\covid\bin\Debug\onnxruntime.dll
 C:\Users\Eder\Desktop\covid proyecto\covid\obj\Debug\covid.DateTimePicker.resources
+E:\covid-proyecto\covid\obj\Debug\Covid.exe
+E:\covid-proyecto\covid\obj\Debug\Covid.pdb
+E:\covid-proyecto\covid\obj\Debug\covid.csprojAssemblyReference.cache
+E:\covid-proyecto\covid\obj\Debug\covid.DateTimePicker.resources
+E:\covid-proyecto\covid\obj\Debug\covid.Covid.resources
+E:\covid-proyecto\covid\obj\Debug\covid.Form1.resources
+E:\covid-proyecto\covid\obj\Debug\covid.Properties.Resources.resources
+E:\covid-proyecto\covid\obj\Debug\covid.Resource1.resources
+E:\covid-proyecto\covid\obj\Debug\covid.csproj.GenerateResource.cache
+E:\covid-proyecto\covid\obj\Debug\covid.csproj.CoreCompileInputs.cache
+E:\covid-proyecto\covid\bin\Debug\Covid.exe.config
+E:\covid-proyecto\covid\bin\Debug\Covid.exe
+E:\covid-proyecto\covid\bin\Debug\Covid.pdb
+E:\covid-proyecto\covid\bin\Debug\Microsoft.ML.OnnxRuntime.dll
+E:\covid-proyecto\covid\bin\Debug\Newtonsoft.Json.dll
+E:\covid-proyecto\covid\bin\Debug\System.Buffers.dll
+E:\covid-proyecto\covid\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\covid-proyecto\covid\bin\Debug\System.Drawing.Common.dll
+E:\covid-proyecto\covid\bin\Debug\System.Memory.dll
+E:\covid-proyecto\covid\bin\Debug\System.Numerics.Vectors.dll
+E:\covid-proyecto\covid\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\covid-proyecto\covid\bin\Debug\Microsoft.ML.OnnxRuntime.pdb
+E:\covid-proyecto\covid\bin\Debug\Newtonsoft.Json.xml
+E:\covid-proyecto\covid\bin\Debug\System.Buffers.xml
+E:\covid-proyecto\covid\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\covid-proyecto\covid\bin\Debug\System.Memory.xml
+E:\covid-proyecto\covid\bin\Debug\System.Numerics.Vectors.xml
+E:\covid-proyecto\covid\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\covid-proyecto\covid\obj\Debug\covid.csproj.CopyComplete
+E:\covid-proyecto\covid\bin\Debug\onnxruntime.dll
