@@ -208,7 +208,7 @@ namespace covid
                     foreach (Class2.Application obj in rs2)
                      {
                      x++;
-                        if () { 
+                        //if () { 
                         if (Fecha1[0] == Fecha1[1])
                         {
                             Fecha1[0] = obj.Date;
@@ -226,7 +226,7 @@ namespace covid
                             Cases.Series["CASOS ACTIVOS"].Points.AddY(obj.Active);
                             
                         }
-                    }
+                    //}
                     }
                     Cases.Series["CASOS ACTIVOS"].BorderWidth = 2;
 
